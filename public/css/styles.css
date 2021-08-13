@@ -18,7 +18,7 @@
 }
 
 .footer-padding {
-	padding-bottom: 60px;
+	padding-bottom: 80px;
 }
 
 .footer {
@@ -29,11 +29,28 @@
 	height: 60px;
 	background-color: #F8485E;
 }
+#page-container {
+    position: relative;
+    min-height: 20vh;
+    height: 2.5rem;
+  }
+  
+  /* #content-wrap {
+    padding-bottom: 2.5rem;    
+  } */
+
+  /* #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
 
 .footer p {
-	margin-top: 25px;
-	font-size: 12px;
+	margin-top: 23px;
+	font-size: 15px;
   color: #fff;
+  bottom: 0;
+
 }
 
 .button{
