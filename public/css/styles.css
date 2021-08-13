@@ -11,7 +11,7 @@
     margin-bottom: 0;
     font-size: 13px;
     letter-spacing: 5px;
-    background-color: #512D6D;
+    background-color: #F4DFD0;
 }
 .navbar-nav  li a:hover {
     color: #00C1D4 !important;
@@ -27,7 +27,7 @@
 	bottom: 0;
 	width: 100%;
 	height: 60px;
-	background-color: #F8485E;
+	background-color: #CDBBA7;
 }
 #page-container {
     position: relative;
@@ -60,8 +60,8 @@
 
 #heading{
     font-size: 20px;
-    color: #F8485E;
+    color: #753422;
 }
 body{
-    background-color: #F0F0CB;
+    background-color: #FDEFEF;
 }
